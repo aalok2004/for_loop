@@ -1,5 +1,4 @@
 // Happy number
-
 var number=15;
 var sum=0;
     while(number>=10)
