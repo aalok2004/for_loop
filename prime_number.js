@@ -4,7 +4,6 @@
 //      if(n%i==0){
 //         count++;
 //      }
-
 // }
 // if(count==0){
 //     console.log("prime")
@@ -14,7 +13,6 @@
 
 
 var n=100;
-
 for(var j=2;j<=n;j++){
 var count =0;
 
